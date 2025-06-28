@@ -22,14 +22,16 @@ const Hero = () => {
         
         <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500">
-            Audio Engineer
+            Mixed by Woo
           </span>
-          <br />
-          <span className="text-white">& Producer</span>
         </h1>
         
         <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-          Crafting sonic experiences that move souls and elevate artists to new heights
+          Professional Audio Recording & Processing
+        </p>
+        
+        <p className="text-lg sm:text-xl text-gray-400 mb-8 max-w-2xl mx-auto leading-relaxed">
+          Welcome to Mixed by Woo, your destination for top-tier audio services
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

@@ -5,39 +5,33 @@ const Services = () => {
   const services = [
     {
       icon: Mic,
-      title: 'Recording',
-      description: 'Professional recording in my state-of-the-art studio with top-tier equipment and acoustics.',
-      features: ['Multi-track recording', 'Vocal booths', 'Live room', 'Remote sessions']
+      title: 'Professional Studio Recording',
+      description: 'High-quality recording sessions in a professional studio environment with top-tier equipment.',
+      features: ['Multi-track recording', 'Vocal isolation booths', 'Live instrument recording', 'Remote session capabilities']
     },
     {
       icon: Settings,
       title: 'Mixing',
-      description: 'Transform your raw tracks into polished, radio-ready productions that translate across all systems.',
-      features: ['Stereo mixing', 'Stem mastering', 'Reference matching', 'Unlimited revisions']
+      description: 'Expert mixing to balance and enhance your tracks for a polished, professional sound.',
+      features: ['Track balancing', 'Effects processing', 'Automation', 'Unlimited revisions']
     },
     {
       icon: Zap,
-      title: 'Mastering',
-      description: 'Final polish for your tracks with professional mastering that makes your music shine.',
-      features: ['Loudness optimization', 'EQ balancing', 'Stereo enhancement', 'Format delivery']
+      title: 'Mastering Service',
+      description: 'Professional mastering to ensure your tracks are loud, clear, and ready for distribution.',
+      features: ['Loudness optimization', 'EQ refinement', 'Stereo imaging', 'Format preparation']
     },
     {
       icon: Music2,
-      title: 'Production',
-      description: 'Full music production services from concept to completion across all genres.',
-      features: ['Beat making', 'Arrangement', 'Instrumentation', 'Creative direction']
+      title: 'Mixing & Mastering Combo',
+      description: 'Comprehensive package for both mixing and mastering to deliver a finished product.',
+      features: ['Full mix balance', 'Mastering polish', 'Consistent sound', 'Cost-effective bundle']
     },
     {
       icon: Headphones,
-      title: 'Sound Design',
-      description: 'Custom sound design for music, film, games, and multimedia projects.',
-      features: ['SFX creation', 'Ambient design', 'Foley work', 'Audio branding']
-    },
-    {
-      icon: Radio,
-      title: 'Podcast Mixing',
-      description: 'Professional podcast production and post-production services.',
-      features: ['Voice enhancement', 'Noise reduction', 'Music integration', 'Distribution prep']
+      title: 'Recording, Mixing & Mastering',
+      description: 'Complete production package from recording through to final mastering for a cohesive sound.',
+      features: ['Studio recording', 'Expert mixing', 'Professional mastering', 'End-to-end service']
     }
   ];
 
